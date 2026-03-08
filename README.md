@@ -1,1 +1,1 @@
-# product-inventory-management
+# Product-inventory-management
